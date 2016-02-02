@@ -1,2 +1,4 @@
 # datasciencecoursera
-this is a test for a coursera datascience course
+##this is a markdown file
+
+This is a test file
